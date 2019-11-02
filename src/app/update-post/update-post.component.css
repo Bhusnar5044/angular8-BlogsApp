@@ -1,0 +1,38 @@
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  /* Add a card effect for articles */
+  .card{
+     background-color: white;
+     padding: 20px;
+     margin: 70px 50px 30px 50px;
+
+  }
+  .comment {
+    background-color: white;
+    position: relative;
+  }
+  .comment input{
+      width: 90%;
+    float: left;
+  }
+  .comment button{
+    position: absolute;
+  }
+  .fa {
+    font-size: 35px;
+    cursor: pointer;
+    user-select: none;
+    margin-left: 15px;
+  }
+  
+  .fa:hover {
+    color: red;
+  }
+
+  .mystyle{
+    font-size:35px;color:red
+  }
